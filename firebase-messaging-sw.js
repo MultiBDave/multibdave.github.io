@@ -1,7 +1,7 @@
 importScripts("https://www.gstatic.com/firebasejs/7.5.0/firebase-app.js");
 importScripts("https://www.gstatic.com/firebasejs/7.5.0/firebase-messaging.js");
 firebase.initializeApp({
-    databaseURL: 'https://consumption-bbe04.firebaseio.com',
+    databaseURL: "https://consumption-bbe04-default-rtdb.europe-west1.firebasedatabase.app",
     apiKey: "AIzaSyDafxbzDqppWX6S4fTkxogmlZtpa-6XI6o",
     authDomain: "consumption-bbe04.firebaseapp.com",
     projectId: "consumption-bbe04",
